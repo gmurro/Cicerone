@@ -5,7 +5,7 @@ The users of this software are: Globetrotter, Cicerone, Administrator. The Globe
 
 Try it on https://madminds.altervista.org/VistaAmministrazione/VistaLogin.php to download android app.
 
-<img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/1.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/2.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/3.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/4.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/5.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/8.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/9.jpg" height="400" /><img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/10.jpg" height="400" />
+<img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/1.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/2.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/3.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/4.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/5.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/8.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/9.jpg" height="400" />  <img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/10.jpg" height="400" />
 
 
 
