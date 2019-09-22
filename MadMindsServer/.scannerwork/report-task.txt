@@ -1,6 +1,0 @@
-projectKey=CiceroneServerPhp
-serverUrl=http://localhost:9000
-serverVersion=7.7.0.23042
-dashboardUrl=http://localhost:9000/dashboard?id=CiceroneServerPhp
-ceTaskId=AWvv2y72cj7bZyuPxUSf
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWvv2y72cj7bZyuPxUSf
