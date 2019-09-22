@@ -7,6 +7,7 @@ Try it on https://madminds.altervista.org/VistaAmministrazione/VistaLogin.php to
 
 Client interfaces (Android):
 
+<img src="https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/1.jpg" width="200" height="400" />
 ![alt text](https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/1.jpg | width=100)
 ![alt text](https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/2.jpg)
 ![alt text](https://raw.githubusercontent.com/gmurro/Cicerone/master/Screens/3.jpg)
