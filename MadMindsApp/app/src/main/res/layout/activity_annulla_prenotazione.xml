@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="50dp"
+    tools:context=".VistaGlobetrotter.AnnullaPrenotazione">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:fontFamily="@font/brown_regular"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Annulla prenotazione"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/brown_regular"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Motivo per cui vuoi annullare la prenotazione:"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <EditText
+        android:id="@+id/motivo_annull_pren"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:padding="10dp"
+        android:background="@android:color/white"
+        android:fontFamily="@font/brown_regular"
+        android:text=""
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:hint="Motivo"
+        android:maxLength="150"
+        tools:targetApi="o" />
+
+
+
+    <Button
+        android:id="@+id/btnAnnullaPrenotazione"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/iconColor"
+        android:text="Annulla prenotazione"
+        android:textColor="@android:color/white"
+        android:padding="10dp"/>
+
+</LinearLayout>

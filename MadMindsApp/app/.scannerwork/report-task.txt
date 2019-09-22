@@ -1,0 +1,6 @@
+projectKey=CiceroneClientAndroid
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=CiceroneClientAndroid
+ceTaskId=AWvhKtOzgka0Q1V7NzJH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWvhKtOzgka0Q1V7NzJH

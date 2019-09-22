@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Cicerone</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Accedi</string>
+    <string name="register">Registati</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="birthday">Data di nascita</string>
+    <string name="confirm_password">Conferma Password</string>
+    <string name="already_having_account">Hai già un account?</string>
+    <string name="log_in">Accedi</string>
+    <string name="not_having_account">Non hai un account?</string>
+    <string name="sign_up">Registrati</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_navigazione">Navigazione</string>
+    <string name="descrittore_img_attvita">questa immagine rappresenta l\'attivita</string>
+    <string name="titolo_attivita">Titolo</string>
+    <string name="attivita_descrizione">Descrizione attività</string>
+    <string name="descrittore_img_dettaglio">questa immagine rappresenta l\'attività</string>
+    <string name="attivita_titolo">Titolo attivita</string>
+    <string name="button_prenotazione">Prenota</string>
+    <string name="descrittore_image_view">immagine/bottone per accedere al profilo del globetrotter</string>
+    <string name="nome_cicerone">nome cicerone</string>
+    <string name="scandeza">scadenza pronotazioni</string>
+    <string name="recensioni">Le tue recensioni</string>
+    <string name="nav_prenotazioni">Le tue prenotazioni</string>
+    <string name="nav_portafoglio">Portafoglio</string>
+    <string name="nav_div_cicerone">Diventa Cicerone</string>
+    <string name="nsv_impostazioni">Impostazioni</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dc_citta">Città di esercizio</string>
+    <string name="dc_descrizione">Breve descrizione (max 300 caratteri)</string>
+    <string name="dc_hint_citta">Città di esercizio</string>
+    <string name="dc_invia">Invia</string>
+    <string name="modifica_psw">Modifica password</string>
+    <string name="nav_attivita">Attività pubblicate</string>
+    <string name="nav_prenotati">Lista prenotati</string>
+    <string name="nav_convalida">Convalida presenze</string>
+    <string name="nav_funzCicerone">Funzionalità da Cicerone</string>
+    <string name="nav_recensioniRicevute">Recensioni ricevute</string>
+    <string name="title_activity_profilo_globetrotter">profiloGlobetrotter</string>
+    <string name="modifica_profilo">Modifica profilo</string>
+    <string name="salva_modifiche">Salva modifiche</string>
+    <string name="cell">Cellulare</string>
+    <string name="des">Descrizione</string>
+    <string name="citta">Citta</string>
+    <string name="mod_profilo">Modifica profilo</string>
+    <string name="mod_foto_profilo">Modifica foto profilo</string>
+    <string name="aggiungi_rec">Aggiungi Recensione</string>
+    <string name="votoRec">Voto (1-5)</string>
+
+
+    <string name="save_rec">Salva Recensione</string>
+    <string name="modificapassword">Modifica Password</string>
+    <string name="modificaprofilo">Modifica Profilo</string>
+    <string name="save_modifica">Salva Modifiche</string>
+    <string name="vecchiapsw">Password corrente</string>
+    <string name="nuovapsw">Nuova Password</string>
+    <string name="confermapsw">Riconferma password</string>
+
+    <string name="prenotazioneattivita">Prenotazione attività</string>
+    <string name="inspartecipanti">Inserire numero partecipanti</string>
+    <string name="pubblica_attivita">Pubblica Attività</string>
+    <string name="indirizzoAppuntamento">indirizzo app. (es. Via Amendola, 164D)</string>
+    <string name="oraAppuntamento">orario appuntamento</string>
+    <string name="lingua_attivita">lingua erogazione servizio</string>
+    <string name="regione_attivita">regione</string>
+    <string name="max_partecipanti">Numero massimo di participanti</string>
+    <string name="data_attivita">data svolgimento attività</string>
+    <string name="avanti">avanti</string>
+    <string name="fasce_prezzo">fasce prezzo</string>
+    <string name="nuova_fascia">nuova fascia</string>
+    <string name="inserisci_fascia_attviita">inserisci fascia</string>
+    <string name="numero_massimo_partecipanti">Numero massimo partecipanti</string>
+    <string name="prezzo">prezzo</string>
+    <string name="da">Da</string>
+    <string name="uno">1</string>
+    <string name="a">a</string>
+    <string name="num">num</string>
+    <string name="Elimina_cicerone">Elimina profilo Cicerone</string>
+    <string name="mod_attivita">Modifica Attività</string>
+    <string name="m_prenotati">Mostra prenotati</string>
+</resources>

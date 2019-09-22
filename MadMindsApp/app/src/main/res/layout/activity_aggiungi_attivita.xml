@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".VistaCicerone.AggiungiAttivita">
+
+    <ScrollView
+        android:id="@+id/scrollaDati"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:id="@+id/constractivPubblicaAttivitaLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/titoloPubblicaAttivita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:fontFamily="@font/brown_regular"
+                android:gravity="center_horizontal"
+                android:padding="5dp"
+                android:text="@string/pubblica_attivita"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/imgAttivitaPubblica"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/circle"
+                android:contentDescription="@string/attivita_descrizione"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/titoloPubblicaAttivita"
+                />
+
+            <EditText
+                android:id="@+id/titoloAttivitaPubblica"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/attivita_titolo"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imgAttivitaPubblica"
+                tools:targetApi="o" />
+
+            <EditText
+
+
+                android:id="@+id/descrizioneAttivitaPubblica"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginTop="8dp"
+                android:padding="10dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:hint="@string/attivita_descrizione"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/titoloAttivitaPubblica"
+                tools:targetApi="o"/>
+
+            <EditText
+                android:id="@+id/indirizzoAppuntamento"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/indirizzoAppuntamento"
+                android:importantForAutofill="no"
+                android:inputType="textPersonName"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/descrizioneAttivitaPubblica"
+                tools:targetApi="o" />
+
+            <EditText
+                android:id="@+id/orarioAppuntamento"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/oraAppuntamento"
+                android:importantForAutofill="no"
+                android:inputType="none"
+                android:focusable="false"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/indirizzoAppuntamento"
+                tools:targetApi="o" />
+
+            <EditText
+                android:id="@+id/linguaAttivita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/lingua_attivita"
+                android:importantForAutofill="no"
+                android:inputType="text"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/orarioAppuntamento"
+                tools:targetApi="o" />
+
+            <EditText
+                android:id="@+id/cittaAttivita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/citta"
+                android:importantForAutofill="no"
+                android:inputType="text"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linguaAttivita"
+                tools:targetApi="o" />
+
+
+            <EditText
+                android:id="@+id/regioneAttivita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/regione_attivita"
+                android:importantForAutofill="no"
+                android:inputType="text"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/cittaAttivita"
+                tools:targetApi="o" />
+
+            <EditText
+                android:id="@+id/scadenzaPrenotazioniAttivita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:focusable="false"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/scandeza"
+                android:importantForAutofill="no"
+                android:inputType="none"
+                android:onClick="dataPicker"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/dataAttivita"
+                app:layout_constraintTop_toBottomOf="@+id/regioneAttivita"
+                tools:targetApi="o" />
+
+
+            <EditText
+                android:id="@+id/dataAttivita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="8dp"
+                android:background="@android:color/white"
+                android:focusable="false"
+                android:fontFamily="@font/brown_regular"
+                android:hint="@string/data_attivita"
+                android:importantForAutofill="no"
+                android:inputType="none"
+                android:onClick="dataPicker1"
+                android:padding="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/scadenzaPrenotazioniAttivita"
+                tools:targetApi="o" />
+
+            <Button
+                android:id="@+id/buttonAvantiAddAttivita"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="16dp"
+                android:background="@color/iconColor"
+                android:fontFamily="@font/brown_regular"
+                android:padding="5dp"
+                android:stateListAnimator="@null"
+                android:text="@string/avanti"
+                android:textColor="@android:color/white"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/dataAttivita" />
+
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

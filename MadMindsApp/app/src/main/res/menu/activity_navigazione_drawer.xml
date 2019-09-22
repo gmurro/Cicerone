@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_recensioni"
+            android:icon="@drawable/star"
+            android:title="@string/recensioni" />
+        <item
+            android:id="@+id/nav_prenotazioni"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="@string/nav_prenotazioni" />
+        <item
+            android:id="@+id/nav_portafoglio"
+            android:icon="@drawable/wallet"
+            android:title="@string/nav_portafoglio" />
+        <item
+            android:id="@+id/nav_div_cicerone"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="@string/nav_div_cicerone" />
+
+
+        <item
+            android:id="@+id/nav_attivita"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="@string/nav_attivita" />
+
+
+        <item
+            android:id="@+id/nav_convalidaPresenze"
+            android:icon="@drawable/sputa"
+            android:title="@string/nav_convalida" />
+
+        <item
+            android:id="@+id/nav_eliminaProfilo"
+            android:icon="@android:drawable/ic_delete"
+            android:title="@string/Elimina_cicerone" />
+
+
+    </group>
+
+    <item android:title="@string/nsv_impostazioni">
+        <menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout"
+                android:title="@string/logout" />
+        </menu>
+    </item>
+
+</menu>

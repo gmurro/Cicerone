@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pullToRefreshPortafoglioGlob"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".VistaGlobetrotter.Navigazione"
+    android:background="@color/colorPrimary"
+    tools:showIn="@layout/app_bar_navigazione">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="50dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:fontFamily="@font/brown_regular"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Portafoglio"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_marginTop="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/brown_regular"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Saldo conto:"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/saldo_globetrotter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="8dp"
+            android:padding="10dp"
+            android:background="@android:color/white"
+            android:fontFamily="@font/brown_regular"
+            android:text=""
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="18sp"
+            android:maxLength="150"
+            tools:targetApi="o" />
+
+
+
+        <Button
+            android:id="@+id/btnRicaricaPortafoglio"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/iconColor"
+            android:text="Ricarica"
+            android:textColor="@android:color/white"
+            android:padding="10dp"/>
+
+    </LinearLayout>
+
+</android.support.v4.widget.SwipeRefreshLayout>

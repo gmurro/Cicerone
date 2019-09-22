@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#298282</color>
+    <color name="colorPrimaryDark">#298282</color>
+    <color name="colorAccent">#298282</color>
+    <color name="colorSecondary">#700000</color>
+    <color name="colorText">#c2c2c2</color>
+    <color name="iconColor">#e38800</color>
+
+    <color name="headings">#161402</color>
+    <color name="grey">#E5E5E5</color>
+
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="gradEndGlob">#298282</color>
+    <color name="gradStartGlob">#279282</color>
+    <color name="gradEndCic">#990000</color>
+    <color name="gradStartCic">#700000</color>
+
+    <color name="vecchioColore" rgb='#123d00' />
+</resources>

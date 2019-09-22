@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.savvi.datepicker:rangepicker:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97bff256a4a307b40fb73e9b43328387/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97bff256a4a307b40fb73e9b43328387/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.savvi.datepicker/rangepicker/1.2.0/e7af774b206101d055d9f1b8b3d9fe6ed89ed0bb/rangepicker-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

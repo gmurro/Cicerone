@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context=".VistaGlobetrotter.ConfermaPrenotazione">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_layout"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical"
+        android:id="@+id/righe">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Lingua" />
+
+            <TextView
+                android:id="@+id/lingua"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Città" />
+
+            <TextView
+                android:id="@+id/citta"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Regione" />
+
+            <TextView
+                android:id="@+id/regione"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Data attività" />
+
+            <TextView
+                android:id="@+id/data"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Ora appuntamento" />
+
+            <TextView
+                android:id="@+id/ora"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Costo dell'attività" />
+
+            <TextView
+                android:id="@+id/importo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Costo del servizio" />
+
+            <TextView
+                android:id="@+id/servizio"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/brown_regular"
+                android:textColor="@android:color/white"
+                android:textSize="15dp"
+                android:clickable="true"
+                android:background="@color/colorPrimary"
+                android:padding="15dp"
+                android:text="Totale" />
+
+            <TextView
+                android:id="@+id/totale"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/brown_regular"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:elevation="4dp"
+                android:padding="20dp"
+                android:text="" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_conferma_prenotazione"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@color/iconColor"
+            android:fontFamily="@font/brown_regular"
+            android:textColor="#fff"
+            android:text="Paga e conferma"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/attivita_dett_scadenza" />
+
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/header_cover_image"
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:scaleType="centerCrop"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="138dp"
+        android:scaleType="centerCrop"
+        android:fontFamily="@font/brown_regular"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Resoconto prenotazione"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        />
+
+    <RelativeLayout
+        android:id="@+id/profile_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/iconColor"
+        android:elevation="4dp"
+        android:paddingBottom="24dp"
+        android:layout_below="@+id/header_cover_image"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:id="@+id/titolo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Titolo attivita"
+            android:fontFamily="@font/brown_regular"
+            android:textColor="#fff"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+
+
+        <TextView
+            android:id="@+id/creatore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Creatore Attivita"
+            android:fontFamily="@font/brown_regular"
+            android:layout_marginTop="70dp"
+            android:textColor="#fff"
+            android:textSize="14sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:id="@+id/nPrenotati"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prenotazione per n persone"
+            android:fontFamily="@font/brown_regular"
+            android:textColor="#fff"
+            android:textSize="14sp"
+            android:layout_below="@+id/creatore"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp"
+            android:drawableTop="@drawable/people" />
+    </RelativeLayout>
+
+</RelativeLayout>
+</ScrollView>

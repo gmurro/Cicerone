@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_3" />
+        <device id="pixel_3_xl" />
+        <device id="Nexus 6" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="297d7fd9-9745-42bd-9fa8-4e2c406f0208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/wallet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/Navigazione.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/Navigazione.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_aggiungi_attivita.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_aggiungi_attivita.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_modifica_profilo_cicerone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_modifica_profilo_cicerone.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_numero_max_attivita.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_numero_max_attivita.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_cicerone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_cicerone.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_cicerone_esterno.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_cicerone_esterno.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_globetrotter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_globetrotter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_globetrotter_esterno.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_globetrotter_esterno.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_aggiungi_fascia_attivita.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_aggiungi_fascia_attivita.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_attivita_pubblicate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_attivita_pubblicate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_prenotazioni_effettuate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_prenotazioni_effettuate.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_recensioni_scritte.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_recensioni_scritte.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_navigazione_drawer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_navigazione_drawer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/navigazione.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/PrenotaAttivita.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ProfiloCiceroneEsterno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/DettagliPrenotazione.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="125" column="72" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/DettagliAttivita.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="136" column="29" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ConfermaPrenotazione.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/AnnullaPrenotazione.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="146" column="33" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FasciaPrezzo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Prenotazione.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Recensione.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/DatiPubblicaAttivita.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Repla</find>
+      <find>ta</find>
+      <find>110</find>
+      <find>120</find>
+      <find>130</find>
+      <find>135</find>
+      <find>SimpleDateFormat</find>
+      <find>settin</find>
+      <find>Gri</find>
+      <find>Grid</find>
+      <find>Calendar</find>
+      <find>nav_pre</find>
+      <find>Rela</find>
+      <find>gestoreRece</find>
+      <find>madminds.tk</find>
+      <find>madminds.a</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>120</replace>
+      <replace>130</replace>
+      <replace>135</replace>
+      <replace>138</replace>
+      <replace>madminds.altervista.org</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res\layout-v26</dir>
+      <dir>F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res\layout</dir>
+      <dir>F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\java\com\madminds\madminds</dir>
+      <dir>F:\Drive\Ing. Software\MadMinds\MadMindsApp\app</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="F:\Drive\Ing. Software\MadMinds\APK\cicerone.jks" />
+    <option name="KEY_ALIAS" value="madminds" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_aggiungi_attivita.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_annulla_prenotazione.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dettagli_prenotazione.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_prenotazioni_effettuate.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/search_bar.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-v26/scegli_data.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/scegli_data.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/filtri_ricerca.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FragmentHome.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/qrscanner/decode/DecodeImageCallback.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/DettagliPrenotazione.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/PointsOverlayView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/ConvalidaPresenze.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_convalida_presenze.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FragmentPortafoglio.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_navigazione_drawer.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FragmentPrenotazioniEffettuate.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_profilo_globetrotter_esterno.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/ProfiloGlobetrotterEsterno.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lista_prenotati.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_attivita_pubblicate.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/ListaPrenotati.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_modifica_attivita.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Attivita.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/AttivitaPubblicateAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Fragment_attivitaPubblicate.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_annulla_attivita.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_mostra_dett_modifica_attivita.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/AnnullaAttivita.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/AnnullaPrenotazione.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/MostraDettModificaAttivita.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Navigazione.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/pagamento.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FragmentPortafoglioGlobetrotter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_portafoglio_globetrotter.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FragmentPortafoglioCicerone.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_portafoglio_cicerone.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/AggiungiAttivita.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/ModificaAttivita.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FragmentConvalidaPresenze.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/ProfiloCicerone.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/DatiPubblicaAttivita.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/DettagliAttivita.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1360" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MadMindsApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="MadMindsApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="MadMindsApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="madminds" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MadMindsApp" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="device.picker.selection" value="a6f16a04" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MadMindsApp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res\font" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.madminds.madminds" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.madminds.madminds" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res\drawable" />
+      <recent name="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\java\com\madminds\madminds\qrscanner" />
+      <recent name="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res\layout-v26" />
+      <recent name="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res\font" />
+      <recent name="F:\Drive\Ing. Software\MadMinds\MadMindsApp\app\src\main\res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="297d7fd9-9745-42bd-9fa8-4e2c406f0208" name="Default Changelist" comment="" />
+      <created>1558531904928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558531904928</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Modifica alla pressione del settings">
+      <created>1558532565764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558532565764</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inserimento dell'implementazione di login e registrazione">
+      <created>1558948256915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558948256915</updated>
+    </task>
+    <task id="LOCAL-00003" summary="grafica login aggiustata">
+      <created>1559044490260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559044490261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implementazione login e registarzione finita">
+      <created>1559050247616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559050247616</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit perchè mi dice che il pull fallisce">
+      <created>1559559243020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1559559243020</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://github.com/0bugFound/MadMindsApp&#10;&#10;# Conflicts:&#10;#&#9;app/src/main/res/layout/activity_login.xml&#10;#&#9;app/src/main/res/layout/activity_register.xml">
+      <created>1560156159768</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560156159768</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Problemi con il run">
+      <created>1560503363207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560503363207</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completamento sprint 2">
+      <created>1560703415795</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560703415795</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Non mi fa fare il pull">
+      <created>1561384035930</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561384035930</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Risoluzione delle vulnerabilita su Sonar">
+      <created>1561544891612</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561544891612</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Miglioramento dell'intefaccia delle attivita">
+      <created>1561553270586</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561553270586</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Implementazione dei miei item dello sprint 3">
+      <created>1562094435846</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562094435846</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Risolto piccolo bug per annullamento prenotazione">
+      <created>1562096913809</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1562096913809</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Risolto piccolo bug per scritte mostrate nell annullamento">
+      <created>1562140701862</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1562140701862</updated>
+    </task>
+    <task id="LOCAL-00015" summary="implementazione ricerca">
+      <created>1562264764921</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1562264764921</updated>
+    </task>
+    <task id="LOCAL-00016" summary="caricamento di tutti i file per inconsistenza">
+      <created>1562336599426</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1562336599427</updated>
+    </task>
+    <task id="LOCAL-00017" summary="conferma qr code completata">
+      <created>1562353872108</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1562353872108</updated>
+    </task>
+    <task id="LOCAL-00018" summary="conferma qr code risoluzione bug">
+      <created>1562401126558</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1562401126559</updated>
+    </task>
+    <task id="LOCAL-00019" summary="creato fragment portafoglio">
+      <created>1562410779764</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1562410779764</updated>
+    </task>
+    <task id="LOCAL-00020" summary="implementazione lista prenotati fatta">
+      <created>1562438739143</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562438739143</updated>
+    </task>
+    <task id="LOCAL-00021" summary="soluzione bug">
+      <created>1562439823962</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562439823962</updated>
+    </task>
+    <task id="LOCAL-00022" summary="app finita">
+      <created>1562698500230</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1562698500230</updated>
+    </task>
+    <task id="LOCAL-00023" summary="app finita">
+      <created>1564837298647</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1564837298647</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.502439" side_tool="true" weight="0.32954547" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49756098" visible="true" weight="0.39285713" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.6268997" weight="0.41080198" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49924013" weight="0.3289689" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49924013" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="5" sideWeight="0.52887535" side_tool="true" visible="true" weight="0.2536825" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.47112462" visible="true" weight="0.2536825" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4323708" weight="0.049099836" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Find" order="10" sideWeight="0.49848023" weight="0.3289689" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modifica alla pressione del settings" />
+    <MESSAGE value="Inserimento dell'implementazione di login e registrazione" />
+    <MESSAGE value="riprovo a fare il pull perche' da errori" />
+    <MESSAGE value="grafica login aggiustata" />
+    <MESSAGE value="implementazione login e registarzione finita" />
+    <MESSAGE value="commit perchè mi dice che il pull fallisce" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/0bugFound/MadMindsApp&#10;&#10;# Conflicts:&#10;#&#9;app/src/main/res/layout/activity_login.xml&#10;#&#9;app/src/main/res/layout/activity_register.xml" />
+    <MESSAGE value="Problemi con il run" />
+    <MESSAGE value="Completamento sprint 2" />
+    <MESSAGE value="Non mi fa fare il pull" />
+    <MESSAGE value="Risoluzione delle vulnerabilita su Sonar" />
+    <MESSAGE value="Miglioramento dell'intefaccia delle attivita" />
+    <MESSAGE value="Implementazione dei miei item dello sprint 3" />
+    <MESSAGE value="Risolto piccolo bug per annullamento prenotazione" />
+    <MESSAGE value="Risolto piccolo bug per scritte mostrate nell annullamento" />
+    <MESSAGE value="implementazione ricerca" />
+    <MESSAGE value="caricamento di tutti i file per inconsistenza" />
+    <MESSAGE value="conferma qr code completata" />
+    <MESSAGE value="conferma qr code risoluzione bug" />
+    <MESSAGE value="creato fragment portafoglio" />
+    <MESSAGE value="implementazione lista prenotati fatta" />
+    <MESSAGE value="soluzione bug" />
+    <MESSAGE value="app finita" />
+    <option name="LAST_COMMIT_MESSAGE" value="app finita" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_modifica_attivita.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="109" column="38" selection-start-line="88" selection-start-column="12" selection-end-line="109" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_prenotazioni_effettuate.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_modifica_profilo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/euro.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dettagli_attivita.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2516">
+          <caret line="202" column="68" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="68" />
+          <folding>
+            <element signature="e#8248#8288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_portafoglio_globetrotter.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="52" column="39" selection-end-line="80" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_modifica_profilo_cicerone.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_portafoglio_cicerone.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="32" selection-start-line="74" selection-start-column="32" selection-end-line="74" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_navigazione.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_navigazione.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_navigazione.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/FragmentPortafoglioGlobetrotter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4386">
+          <caret line="281" column="5" selection-start-line="170" selection-start-column="4" selection-end-line="281" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/FragmentConvalidaPresenze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3587">
+          <caret line="234" column="106" selection-start-line="234" selection-start-column="106" selection-end-line="234" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/DiventaCicerone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/FragmentPortafoglioCicerone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4046">
+          <caret line="264" column="42" selection-start-line="264" selection-start-column="42" selection-end-line="264" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pagamento.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/AnnullaAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="141" column="38" selection-start-line="127" selection-start-column="24" selection-end-line="141" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/ListaPrenotati.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="75" column="71" selection-start-line="75" selection-start-column="71" selection-end-line="75" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/ModificaAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="153" column="66" selection-start-line="153" selection-start-column="66" selection-end-line="153" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/ModificaProfiloCicerone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/MostraDettModificaAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="160" column="65" lean-forward="true" selection-start-line="160" selection-start-column="65" selection-end-line="160" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/ProfiloGlobetrotterEsterno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="68" column="56" selection-start-line="68" selection-start-column="54" selection-end-line="68" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/CircleTrasformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ResocontoFasceAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ProfiloGlobetrotter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/Navigazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="316" lean-forward="true" selection-start-line="316" selection-end-line="316" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ModificaProfiloGlobetrotter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ModificaPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ModificaFotoProfilo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="92" column="3" selection-start-line="92" selection-start-column="3" selection-end-line="118" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/FragmentRecensioniScritte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Attivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#3021#3022#0" expanded="true" />
+            <element signature="e#3050#3051#0" expanded="true" />
+            <element signature="e#3095#3096#0" expanded="true" />
+            <element signature="e#3136#3137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/AggiungiAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="159" column="35" selection-start-line="159" selection-start-column="35" selection-end-line="159" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/AggiungiFascePrezzo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaCicerone/ProfiloCicerone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="266" column="5" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/PrenotaAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ProfiloCiceroneEsterno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/DettagliPrenotazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="125" column="72" selection-start-line="125" selection-start-column="8" selection-end-line="125" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/DettagliAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="136" column="29" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/ConfermaPrenotazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/VistaGlobetrotter/AnnullaPrenotazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="146" column="33" selection-start-line="146" selection-start-column="33" selection-end-line="146" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/FasciaPrezzo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Prenotazione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/Recensione.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/madminds/madminds/DatiPubblicaAttivita.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
